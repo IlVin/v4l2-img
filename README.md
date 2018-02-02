@@ -1,1 +1,2 @@
-# v4l2-img
+# Prototype
+https://svn.code.sf.net/p/darwinop/code/trunk
